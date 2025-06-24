@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const Api = axios.create({
-    baseURL: 'http://localhost:5000/api/orders',
+    baseURL: `${import.meta.env.VITE_API_URL}`,
 });
 
 //get the list of all channels
