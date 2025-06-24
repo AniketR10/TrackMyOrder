@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import ChannelSyncCard from '../components/channelSyncCard';
 import StatsDashboard from '../components/statsDashboard';
 import { retryOrders, syncOrders, fetchChannelList, clearAllData } from '../services/api';

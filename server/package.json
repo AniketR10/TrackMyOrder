@@ -5,6 +5,9 @@
   "main": "app.ts",
   "scripts": {
     "start": "node --loader ts-node/esm app.ts",
+    "dev": "nodemon --watch './**/*.ts' --exec 'node --loader ts-node/esm app.ts'",
+    "install": "npm install --prefix ../frontend && npm install",
+    "render-build": "npm run build --prefix ../frontend",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
