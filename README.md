@@ -84,6 +84,10 @@ npm run dev
 * `DELETE /api/orders/clear-all` - Clear all orders
 * `GET /api/orders/stats` - Get current statistics
 
+## Workflow diagram 
+![Untitled (2)](https://github.com/user-attachments/assets/76a65e9c-d272-45d7-915a-c15313b7b68f)
+Whiteboard Link: https://webwhiteboard.com/board/uXjVIkuFuao=/?boardAccessToken=sd3zQkQYue4EFZHaCCWy5ye3lkqX2RdW
+
 ---
 
 
