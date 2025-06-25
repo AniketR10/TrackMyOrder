@@ -1,4 +1,5 @@
 # 🏦 Order Sync Dashboard
+![image](https://github.com/user-attachments/assets/5a3e78d7-aaf1-4f35-a650-1edc0abdb080)
 
 🔗 Live Demo: https://trackmyorder-1.onrender.com
 
@@ -20,8 +21,8 @@ A full-stack application for managing and syncing orders across multiple sales c
 
 ```
 order-sync-dashboard/
-├── frontend/         # React + Tailwind (Vite)
-├── server/           # Express.js + MongoDB
+├── frontend/          React + Tailwind (Vite)
+├── server/            Express.js + MongoDB
 ```
 
 ---
