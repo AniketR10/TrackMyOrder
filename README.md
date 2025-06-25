@@ -85,7 +85,8 @@ npm run dev
 * `GET /api/orders/stats` - Get current statistics
 
 ## Workflow diagram 
-![Untitled (2)](https://github.com/user-attachments/assets/76a65e9c-d272-45d7-915a-c15313b7b68f)
+![image](https://github.com/user-attachments/assets/10aa2688-f497-4ee8-b4f4-51e89093f325)
+
 Whiteboard Link: https://webwhiteboard.com/board/uXjVIkuFuao=/?boardAccessToken=sd3zQkQYue4EFZHaCCWy5ye3lkqX2RdW
 
 ---
